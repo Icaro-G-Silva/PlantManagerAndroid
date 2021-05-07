@@ -1,0 +1,13 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Plant Manager</string>
+    <string name="title">Plant Manager</string>
+    <!-- General -->
+
+    <!-- Welcome Activity -->
+    <string name="main_heading">Manage your plants on the easy way</string>
+    <string name="main_description">Don\'t forget to water your plants anymore. We take care to remember you whenever you need.</string>
+    <string name="alt_watering">Watering</string>
+    <string name="next_button">></string>
+    <!-- Welcome Activity -->
+</resources>
